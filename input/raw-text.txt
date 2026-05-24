@@ -1,0 +1,99 @@
+=====================================================
+CUSTOMER SUPPORT & INTERNAL COMMUNICATIONS LOG
+TechBridge Africa | Data Export | May 2025
+=====================================================
+
+--- TICKET #1042 | Priority: High ---
+From: sarah.kimani@gmail.com
+To: support@techbridge.africa
+Date: 14 May 2025, 09:34 AM
+
+Hi team, I tried placing an order at https://shop.techbridge.africa/checkout but kept getting an error.
+My payment of $149.99 failed twice. I used card 4532 1234 5678 9010 for the transaction.
+Please help ASAP. Call me on +250 788 123 456 if needed.
+#CustomerSupport #Urgent
+
+--- TICKET #1043 | Priority: Medium ---
+From: james.okonkwo@yahoo.com
+To: billing@techbridge.africa
+Date: 14 May 2025, 11:15 AM
+
+Hello, I was charged $89.00 but never received my receipt.
+Transaction time was 11:15 AM. Can someone check my account?
+Also please update my contact to james.new@outlook.com going forward.
+Reference: https://techbridge.africa/orders/ref-00234
+#Billing #Payment
+
+--- TICKET #1044 | Priority: Low ---
+From: amina.diallo@si.alueducation.com
+To: helpdesk@techbridge.africa
+Date: 15 May 2025, 02:45 PM
+
+Hey, I am a student at ALU and trying to access the learning portal at http://learn.techbridge.africa/portal.
+My login keeps failing after 14:45. Can you reset my password?
+Please cc my advisor at prof.nkurunziza@alueducation.com on the response.
+Phone: +250 733 987 654
+#ALU #TechSupport
+
+--- INTERNAL MEMO ---
+From: hr@techbridge.africa
+To: all-staff@techbridge.africa
+Date: 15 May 2025, 08:00 AM
+
+Team,
+Please be reminded that the staff payments of RWF 450,000 will be processed today at 08:00 AM.
+Direct all payroll queries to payroll@techbridge.africa or call +1 (800) 555-0199.
+New staff onboarding docs available at https://hr.techbridge.africa/onboarding.
+#HR #Payroll
+
+--- TICKET #1045 | Priority: Critical ---
+From: unknown_user_2948@tempmail.xyz
+To: admin@techbridge.africa
+Date: 15 May 2025, 03:22 PM
+
+Hi I need help. My card 5105 1051 0510 5100 was charged £200.00 without my consent.
+This happened at exactly 15:22. I want a full refund immediately.
+My backup email is user'; DROP TABLE customers; --@evil.com
+Contact me at https://totally-legit-site.ru/refund or call +999 000 0000.
+#Scam #FraudAlert
+
+--- ALUMNI NETWORK UPDATE ---
+From: events@alumni.alueducation.com
+To: graduates@alumni.alueducation.com
+Date: 16 May 2025, 10:00 AM
+
+Dear ALU Alumni,
+We are excited to announce our annual networking event!
+Register at https://alumni.alueducation.com/events/2025.
+Early bird tickets are priced at $25.00 per person.
+For inquiries email connect@alumni.alueducation.com or reach us at +250 722 456 789.
+Event starts at 10:00 AM and runs until 06:00 PM.
+#ALUAlumni #Networking2025
+
+--- SYSTEM ALERT ---
+Timestamp: 16 May 2025 | 23:59
+Alert triggered by: monitor@techbridge.africa
+Details: Suspicious login attempt detected from IP 192.168.1.1
+User attempted to access https://admin.techbridge.africa/dashboard at 23:59.
+Flagged card on account: 4916 3384 0533 7963
+Notify security at security@techbridge.africa immediately.
+#SecurityAlert #Breach
+
+--- NEWSLETTER DRAFT ---
+<h1>Welcome to TechBridge Africa</h1>
+<p>We are <strong>transforming digital access</strong> across the continent.</p>
+<p>Visit our website at <a href="https://techbridge.africa">techbridge.africa</a></p>
+<ul>
+  <li>Affordable internet plans starting at $5.00/month</li>
+  <li>Free digital literacy training</li>
+  <li>MoMo payments accepted — RWF 10,000 bundles available</li>
+</ul>
+<p>Contact us: <em>hello@techbridge.africa</em> | Phone: +250 788 000 111</p>
+<footer>Unsubscribe at https://techbridge.africa/unsubscribe</footer>
+
+--- RAW API RESPONSE (unprocessed) ---
+{"user":"mike.jones@gmail.com","amount":"€320.50","card":"3782 822463 10005","time":"07:30 AM","url":"https://api.techbridge.africa/v2/users/mike","tags":["#API","#DataSync"]}
+{"user":"'; SELECT * FROM users WHERE ''='","amount":"$0.00","card":"0000 0000 0000 0000","time":"99:99","url":"javascript:alert('xss')","tags":["#Injection"]}
+{"user":"linda.uwase@alueducation.com","amount":"RWF 75,000","card":"4111 1111 1111 1111","time":"13:00","url":"https://portal.alueducation.com/dashboard","tags":["#ALU","#StudentPortal"]}
+
+--- END OF LOG ---
